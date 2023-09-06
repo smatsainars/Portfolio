@@ -1,0 +1,3 @@
+# TKINTER
+
+This is a number-guessing game called "Guess 20" with a graphical user interface (GUI) built using Python's tkinter library. The game starts a timer when you click "Start," and your goal is to guess and input 20 random numbers in ascending order as quickly as possible. If you successfully input all numbers in ascending order, you win the game, and your completion time is recorded in txt file.
